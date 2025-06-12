@@ -1,16 +1,10 @@
 [
     {
-        "university": "National Taiwan University of Science and Technology",
-		"logo": "images/ntust-logo.png",
-        "major": "Master of Science in Electronic and Computer Engineering",
-        "year": "2016 - 2018",
-        "description": "GPA 4.10 of 4.3; Belong to Biomedical and Embedded System (BEST) Laboratory under supervision of Prof. Lin Yuan-Hsiang (Taiwan Chief of Electronic); Lead with 1 IEEE conference paper and 1 prestigious regional symposium paper"
-    },
-    {
-        "university": "Universitas Diponegoro",
-		"logo": "images/undip-logo.png",
-        "major": "Bachelor of Engineering in Electrical Engineering",
-        "year": "2011 - 2015",
-        "description": "GPA 3.41 of 4; Focusing on Biomedical Engineering and Microelectronic under advisory of Munawar Riyadi Ph. D.; Electronic Laboratory Coordinator in 2015; Outcome research with 2 IEEE conference paper"
+        "university": "POliteknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Associate degree in elctronic engineering",
+        "year": "2022 - 2025",
+        "description": "Design and Development of an Automated Filling and Sealing System Based on PLC
+This final-year undergraduate project focuses on the design and implementation of an automated product filling and sealing system using a Programmable Logic Controller (PLC). The system integrates sensors and actuators with PLC-based ladder logic to automate the packaging process, ensuring accuracy, efficiency, and consistency while reducing manual labor. The project demonstrates strong technical competency in industrial automation, control systems, and embedded integration, and serves as a prototype for future applications in manufacturing environments. Supervised by Dadi, S.T., M.Eng. and Suryono, S.T., M.Eng., this work reflects practical experience in designing real-world automation systems. Final GPA: 3.01 (scale of 4.00)."
     }
 ]
